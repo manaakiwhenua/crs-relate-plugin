@@ -1,0 +1,9 @@
+README.md
+setup.py
+crs_relate_plugin/__init__.py
+crs_relate_plugin.egg-info/PKG-INFO
+crs_relate_plugin.egg-info/SOURCES.txt
+crs_relate_plugin.egg-info/dependency_links.txt
+crs_relate_plugin.egg-info/not-zip-safe
+crs_relate_plugin.egg-info/requires.txt
+crs_relate_plugin.egg-info/top_level.txt
