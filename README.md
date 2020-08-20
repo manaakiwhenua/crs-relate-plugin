@@ -1,4 +1,4 @@
-[![manaakiwhenua-standards](https://github.com/manaakiwhenua/local-outlier-factor-plugin/workflows/manaakiwhenua-standards/badge.svg)](https://github.com/manaakiwhenua/manaakiwhenua-standards)
+[![manaakiwhenua-standards](https://github.com/manaakiwhenua/crs-relate-plugin/workflows/manaakiwhenua-standards/badge.svg)](https://github.com/manaakiwhenua/manaakiwhenua-standards)
 
 # crs-relate-plugin
 
